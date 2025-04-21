@@ -1,24 +1,35 @@
-# Token Freezer 
+# ❄️ Token Freezer ❄️
 
-Simple overview of user/purpose.
+🛠️ Simple overview of user/purpose. 🛠️
 
-## Description
+## 📝 Description
 
-This project tracks all the wallet that buys the token from Raydium AMM V4 Pools and send freeze transaction, 
-enabling users not to be able to sell the token they bought
+🔍 This project tracks all wallets that buy tokens from Raydium AMM V4 Pools 📊 and sends freeze transactions ❄️,
+enabling users to lock 🔒 the tokens they bought (preventing sales 🚫).
 
-### This can be used for various strategies, to control the funds in the pool.
+💡 This can be used for various strategies 🧠, to control the funds in the pool 🏊.
 
-## Getting Started
+## 🚀 Getting Started
 
-Set the necessary parameters in consts.ts file.
-If you are done with setting, run the project with 
+1. Set the necessary parameters in `consts.ts` file ⚙️
+2. Run the project with:
+
+```bash
+npm start 🖥️
 ```
-npm start
-```
 
-## Contact
-Telegram: [@vicckr](https://t.me/vicckr)
+📞 Contact
 
-You can always find me here, for Full version + Setup Instructions, or for other projects.
+💬 Telegram: @vicckr(https://t.me/vicckr) 📲
+
+🦸 You can always find me here for:
+
+Full version + Setup Instructions 📚
+
+Other dope projects 🚀
+
+Crypto dev talk 💻
+
+🔥 "Keep your tokens cold and your code hot!" 🔥
+
 
